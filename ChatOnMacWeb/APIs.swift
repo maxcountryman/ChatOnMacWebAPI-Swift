@@ -14,7 +14,7 @@ import Foundation
 public typealias ChatOnMacWeb = ChatOnMacWebAPI
 
 open class ChatOnMacWebAPI {
-    public static var basePath = "https://api.chatonmac.com/api"
+    public static var basePath = "https://api.chatonmac.com"
     public static var customHeaders: [String: String] = [:]
     public static var credential: URLCredential?
     public static var requestBuilderFactory: RequestBuilderFactory = URLSessionRequestBuilderFactory()

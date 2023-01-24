@@ -1,6 +1,6 @@
 # DefaultAPI
 
-All URIs are relative to *https://api.chatonmac.com/api*
+All URIs are relative to *https://api.chatonmac.com*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

@@ -21,7 +21,7 @@ Run `pod install`
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://api.chatonmac.com/api*
+All URIs are relative to *https://api.chatonmac.com*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
