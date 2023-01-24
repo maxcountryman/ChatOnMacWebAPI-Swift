@@ -1,0 +1,15 @@
+name: ChatOnMacWeb
+targets:
+  ChatOnMacWeb:
+    type: framework
+    platform: iOS
+    deploymentTarget: "9.0"
+    sources: [ChatOnMacWeb]
+    info:
+      path: ./Info.plist
+      version: 0.2.0
+    settings:
+      APPLICATION_EXTENSION_API_ONLY: true
+    scheme: {}
+    dependencies:
+    - carthage: AnyCodable
